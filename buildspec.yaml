@@ -12,7 +12,7 @@ phases:
       - npm install
   build:
     commands:
-      - npm rundev
+      - npm run dev
 artifacts:
   files:
     - "**/*"
