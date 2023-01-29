@@ -45,7 +45,7 @@ export const SIDEBAR: Sidebar = {
     ],
     "Edition Guidelines": [
       { text: "Edition Symbols", link: "docs/en/edition-symbols" },
-      { text: "Standard Orthography", link: "docs/en/standard-orthography" },
+      { text: "Orthography", link: "docs/en/orthography" },
       { text: "Unit Titles", link: "docs/en/unit-titles" },
     ],
     "Othography Decisions": [
