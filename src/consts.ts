@@ -36,7 +36,7 @@ export type Sidebar = Record<
 >;
 export const SIDEBAR: Sidebar = {
   en: {
-    "User Guide": [
+    Tools: [
       { text: "News & Updates", link: "en/news" },
       { text: "Layout Analysis", link: "en/layout-analysis" },
       { text: "Line Detection", link: "en/line-detection" },
@@ -45,20 +45,22 @@ export const SIDEBAR: Sidebar = {
     "Edition Guidelines": [
       { text: "Edition Symbols", link: "en/edition-symbols" },
       { text: "Standard Orthography", link: "en/standard-orthography" },
+    ],
+    "Word Othography": [
       {
-        text: "Word Othography, أ ب ت ث ج ح خ ",
+        text: "أ ب ت ث ج ح خ ",
         link: "en/word-orthography-1-alif-kha",
       },
       {
-        text: "Word Othography, د ذ ر ز س ش ص",
+        text: "د ذ ر ز س ش ص",
         link: "en/word-orthography-2-dal-sad",
       },
       {
-        text: "Word Othography, ض ط ظ ع غ ف ق",
+        text: "ض ط ظ ع غ ف ق",
         link: "en/word-orthography-3-dad-qaf",
       },
       {
-        text: "Word Othography, ك ل م ن ه و ي",
+        text: "ك ل م ن ه و ي",
         link: "en/word-orthography-4-kaf-ya",
       },
     ],
