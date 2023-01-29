@@ -1,5 +1,5 @@
 ---
-title: "Layout Analsysis"
+title: "Layout Analysis"
 description: "Lorem ipsum dolor sit amet - 3"
 ---
 
