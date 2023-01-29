@@ -29,7 +29,7 @@
 	--color-base-yellow: 41, 100%;
 
 	/*
-   * Color palettes are made using --color-base 
+   * Color palettes are made using --color-base
    * variables, along with a lightness value to
    * define different variants.
    *
@@ -59,7 +59,8 @@
 :root {
 	color-scheme: light;
 	--theme-accent: hsla(var(--color-blue), 1);
-	--theme-text-accent: hsla(var(--color-blue), 1);
+	/* --theme-text-accent: hsla(var(--color-blue), 1); */
+	--theme-text-accent: #6b9e1f;
 	--theme-accent-opacity: 0.15;
 	--theme-divider: hsla(var(--color-gray-95), 1);
 	--theme-text: hsla(var(--color-gray-10), 1);
@@ -89,7 +90,8 @@ body {
 	color-scheme: dark;
 	--theme-accent-opacity: 0.15;
 	--theme-accent: hsla(var(--color-blue), 1);
-	--theme-text-accent: hsla(var(--color-blue), 1);
+	/* --theme-text-accent: hsla(var(--color-blue), 1); */
+	--theme-text-accent: #6b9e1f;
 	--theme-divider: hsla(var(--color-gray-10), 1);
 	--theme-text: hsla(var(--color-gray-90), 1);
 	--theme-text-light: hsla(var(--color-gray-80), 1);
