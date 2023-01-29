@@ -1,5 +1,5 @@
 ---
-title: "Edition Symbols"
+title: "Unit Titles"
 description: "Lorem ipsum dolor sit amet - 4"
 ---
 

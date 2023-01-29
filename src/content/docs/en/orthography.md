@@ -1,5 +1,5 @@
 ---
-title: "Edition Symbols"
+title: "Orthography"
 description: "Lorem ipsum dolor sit amet - 4"
 ---
 

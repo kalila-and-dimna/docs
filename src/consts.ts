@@ -37,31 +37,33 @@ export type Sidebar = Record<
 export const SIDEBAR: Sidebar = {
   en: {
     Tools: [
-      { text: "News & Updates", link: "en/news" },
-      { text: "Layout Analysis", link: "en/layout-analysis" },
-      { text: "Line Detection", link: "en/line-detection" },
-      { text: "Transcription", link: "en/transcription" },
+      { text: "News & Updates", link: "docs/en/news" },
+      { text: "Layout Analysis", link: "docs/en/layout-analysis" },
+      { text: "Line Detection", link: "docs/en/line-detection" },
+      { text: "Transcription", link: "docs/en/transcription" },
+      { text: "Collation", link: "docs/en/collation" },
     ],
     "Edition Guidelines": [
-      { text: "Edition Symbols", link: "en/edition-symbols" },
-      { text: "Standard Orthography", link: "en/standard-orthography" },
+      { text: "Edition Symbols", link: "docs/en/edition-symbols" },
+      { text: "Standard Orthography", link: "docs/en/standard-orthography" },
+      { text: "Unit Titles", link: "docs/en/unit-titles" },
     ],
-    "Word Othography": [
+    "Othography Decisions": [
       {
         text: "أ ب ت ث ج ح خ ",
-        link: "en/word-orthography-1-alif-kha",
+        link: "docs/en/orthography-decisions-1-alif-kha",
       },
       {
         text: "د ذ ر ز س ش ص",
-        link: "en/word-orthography-2-dal-sad",
+        link: "docs/en/orthography-decisions-2-dal-sad",
       },
       {
         text: "ض ط ظ ع غ ف ق",
-        link: "en/word-orthography-3-dad-qaf",
+        link: "docs/en/orthography-decisions-3-dad-qaf",
       },
       {
         text: "ك ل م ن ه و ي",
-        link: "en/word-orthography-4-kaf-ya",
+        link: "docs/en/orthography-decisions-4-kaf-ya",
       },
     ],
   },
