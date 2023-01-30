@@ -60,12 +60,12 @@ description: "Lorem ipsum dolor sit amet - 4"
 | علم     |    Knowledge    |
 | عَلم    | Past Verb: Knew |
 
-### Word2
+### عالم
 
 | Variant | Meaning |
 | ------- | :-----: |
-|         |         |
-|         |         |
+| عالم    | Scholar |
+| عالَم   |  World  |
 
 ## غ
 
