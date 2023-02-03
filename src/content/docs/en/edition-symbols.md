@@ -51,7 +51,7 @@ A word that the copyist wrote and crossed-out
 
 TBA
 
-## {} 🟰 Suppletions
+## {} 🟰 Pre-Modern Corrections
 
 Marginal additions
 
@@ -59,7 +59,7 @@ Marginal additions
 
 TBA
 
-## <> 🟰 Additions
+## <> 🟰 Editors' Additions
 
 ### Examples
 

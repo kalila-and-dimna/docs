@@ -1,6 +1,6 @@
 export const SITE = {
-  title: "Kalila Documentation",
-  description: "Your website description.",
+  title: "Documentation",
+  description: "Kalila and Dimna Documentation",
   defaultLanguage: "en-us",
 } as const;
 
@@ -44,7 +44,14 @@ export const SIDEBAR: Sidebar = {
     "Edition Guidelines": [
       { text: "Edition Symbols", link: "docs/en/edition-symbols" },
       { text: "Orthography", link: "docs/en/orthography" },
-      { text: "Unit Titles", link: "docs/en/unit-titles" },
+      {
+        text: "Middle Arabic Features",
+        link: "docs/en/middle-arabic-features",
+      },
+      {
+        text: "Segmentation Principles",
+        link: "docs/en/segmentation-principles",
+      },
     ],
     "Othography Decisions": [
       {
