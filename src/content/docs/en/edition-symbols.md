@@ -60,6 +60,7 @@ Marginal additions
 TBA
 
 ## <> 🟰 Editors' Additions
+Word added by the editors that are deemed necessary for the context.
 
 ### Examples
 
