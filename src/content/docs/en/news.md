@@ -3,11 +3,13 @@ title: "News & Updates"
 description: "Docs intro"
 ---
 
-last updated: 03.02.2023 01:00PM
+last updated: 28.02.2023 02:00PM
 
 ## System State
 
-🟢 All Systems and services are running.
+The System is currently down
+
+<!-- 🟢 All Systems and services are running. -->
 
 ## Planned Downtime
 

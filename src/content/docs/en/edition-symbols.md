@@ -13,6 +13,7 @@ TBA
 
 ## ? 🟰 Unintelligible Words
 
+
 Clearly written word that are meaningless in both Standard and Middle Arabic. Type the word and place a question mark before it.
 
 ### Examples
