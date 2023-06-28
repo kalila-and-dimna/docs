@@ -3,7 +3,7 @@ title: "News & Updates"
 description: "Docs intro"
 ---
 
-last updated: 28.02.2023 02:00PM
+last updated: 19.06.2023 02:00PM
 
 ## System State
 

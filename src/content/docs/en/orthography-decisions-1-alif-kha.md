@@ -1,6 +1,6 @@
 ---
-title: "Othography Decisions"
-description: "Lorem ipsum dolor sit amet - 4"
+title: Othography Decisions
+description: Lorem ipsum dolor sit amet - 4
 ---
 
 ## أ
