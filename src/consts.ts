@@ -53,23 +53,23 @@ export const SIDEBAR: Sidebar = {
         link: "docs/en/segmentation-principles",
       },
     ],
-    "Othography Decisions": [
-      {
-        text: "أ ب ت ث ج ح خ ",
-        link: "docs/en/orthography-decisions-1-alif-kha",
-      },
-      {
-        text: "د ذ ر ز س ش ص",
-        link: "docs/en/orthography-decisions-2-dal-sad",
-      },
-      {
-        text: "ض ط ظ ع غ ف ق",
-        link: "docs/en/orthography-decisions-3-dad-qaf",
-      },
-      {
-        text: "ك ل م ن ه و ي",
-        link: "docs/en/orthography-decisions-4-kaf-ya",
-      },
-    ],
+    // "Othography Decisions": [
+    //   {
+    //     text: "أ ب ت ث ج ح خ ",
+    //     link: "docs/en/orthography-decisions-1-alif-kha",
+    //   },
+    //   {
+    //     text: "د ذ ر ز س ش ص",
+    //     link: "docs/en/orthography-decisions-2-dal-sad",
+    //   },
+    //   {
+    //     text: "ض ط ظ ع غ ف ق",
+    //     link: "docs/en/orthography-decisions-3-dad-qaf",
+    //   },
+    //   {
+    //     text: "ك ل م ن ه و ي",
+    //     link: "docs/en/orthography-decisions-4-kaf-ya",
+    //   },
+    // ],
   },
 };
